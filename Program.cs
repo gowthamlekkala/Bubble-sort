@@ -1,5 +1,5 @@
 ﻿/* Author: Gowtham Lekkala
- date : 02/28/2024
+ date : 28/02/2024
 This code is for Bubble sort numbers*/
 
 int[] bubble_sort_numbers = { 5,72,3,14,7,1 };
